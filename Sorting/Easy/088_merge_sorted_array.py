@@ -24,5 +24,4 @@ def merge(nums1, m, nums2, n):
         j -= 1
         k -= 1
     # No need to copy remaining elements in nums1, as they are already in place
-    #333
-    print()
+    
